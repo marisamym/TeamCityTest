@@ -40,7 +40,8 @@ public class LoginController {
 				 }
 			}
 
-			return new  ModelAndView("CHANGE tEST");
+			//return new  ModelAndView("CHANGE tEST");
+			return new  ModelAndView("");
 			
 	    }
 }
